@@ -3,7 +3,7 @@
 | [设计原则](#设计原则)               |                     |
 | [关键思想](#关键思想)               |          |
 | [代码说明](#代码说明)           |  |
-| 1️⃣[组件协作](#组件协作)           | Template Method模式｜Strategy 策略模式｜Observer 观察者模式|
+| <span style="white-space:nowrap">1️⃣[组件协作](#组件协作)</span>           | Template Method模式｜Strategy 策略模式｜Observer 观察者模式|
 | 2️⃣[单一职责](#单一职责)          | Decorator 装饰模式｜Bridge 桥模式|
 | 3️⃣[对象创建](#对象创建)           | Factory 工厂模式｜Abstract Factory｜Prototype 原型模式｜Builder模式｜Singleton 单例模式｜Flyweight 享元模式|
 | 4️⃣[接口隔离](#接口隔离)           | Facade 门面模式｜Proxy 代理模式｜Adapter 适配器模式｜Mediator 中介者模式|
