@@ -4,13 +4,13 @@
 | [关键思想](#关键思想)               |          |
 | [代码说明](#代码说明)           |  |
 | 1️⃣[组件协作](#组件协作)           | Template Method模式｜Strategy 策略模式｜Observer 观察者模式|
-| 2️⃣[单一职责](#单一职责) | Decorator 装饰模式｜Bridge 桥模式|
-| 3️⃣[对象创建](#对象创建) | Factory 工厂模式｜Abstract Factory｜Prototype 原型模式｜Builder模式｜Singleton 单例模式｜Flyweight 享元模式|
-| 4️⃣[接口隔离](#接口隔离) | Facade 门面模式｜Proxy 代理模式｜Adapter 适配器模式｜Mediator 中介者模式|
-| 5️⃣[状态变化](#状态变化) | State 状态模式｜Memento 备忘录模式|
-| 6️⃣[数据结构](#数据结构) | Composite 组合模式｜Iterator 迭代器模式｜Chain of Responsibility 职责链模式|
-| 7️⃣[行为变化](#行为变化) | Command 命令模式｜Visitor 访问者模式|
-| 8️⃣[领域规则](#领域规则) | Interpreter 解释器模式|
+| 2️⃣[单一职责](#单一职责)          | Decorator 装饰模式｜Bridge 桥模式|
+| 3️⃣[对象创建](#对象创建)           | Factory 工厂模式｜Abstract Factory｜Prototype 原型模式｜Builder模式｜Singleton 单例模式｜Flyweight 享元模式|
+| 4️⃣[接口隔离](#接口隔离)           | Facade 门面模式｜Proxy 代理模式｜Adapter 适配器模式｜Mediator 中介者模式|
+| 5️⃣[状态变化](#状态变化)           | State 状态模式｜Memento 备忘录模式|
+| 6️⃣[数据结构](#数据结构)           | Composite 组合模式｜Iterator 迭代器模式｜Chain of Responsibility 职责链模式|
+| 7️⃣[行为变化](#行为变化)           | Command 命令模式｜Visitor 访问者模式|
+| 8️⃣[领域规则](#领域规则)           | Interpreter 解释器模式|
 
 # 设计原则
 
